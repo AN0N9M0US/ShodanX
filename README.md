@@ -35,7 +35,7 @@ by understanding these queries and references you can use the shodanx with its f
 To install ShodanX, simply use pip:
 
 ```bash
-pip install git+https://github.com/sanjai-AK47/ShodanX
+pip install git+https://github.com/AN0N9M0US/ShodanX.git
 ```
 
 ### Usage
